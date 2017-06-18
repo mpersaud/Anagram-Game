@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mike/.android/build-cache/53bdca6788edb16701f7958b42ff4c8e39eebaee/output/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/mike/AndroidStudioProjects/anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_aea11a271c0347f35a7521e8c83a41a205807df8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mike/.android/build-cache/dd0485ba3c673750a1b8fbe55d1c07fdc88b10b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/mike/AndroidStudioProjects/anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c7f3b8f36100564a50c367c651dc7920ba774e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mike/.android/build-cache/df4113ced0cc674c481fed654dbf543425324449/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/mike/AndroidStudioProjects/anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b9bd162a4f954e50ea6b2ea9ca2b8c7191ad3a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mike/AndroidStudioProjects/anagrams/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/mike/AndroidStudioProjects/anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_159787af0d3e46b8c942e3dd6fc091d9ee3a7935/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mike/.android/build-cache/53bdca6788edb16701f7958b42ff4c8e39eebaee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/mike/AndroidStudioProjects/anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e88c53bc8c893b78ae73a15ff455b9149699d360/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mike/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/mike/AndroidStudioProjects/anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_5695fb8be87817ad8c15b986d304679da87d2865/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mike/AndroidStudioProjects/anagrams/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a9ae1f6f7955b726a86be44100ba9d8945b626b">
+        <dex dex="/Users/mike/AndroidStudioProjects/anagrams/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9e53e14466eaaca8c2b41e36bbb9ae3584a3d629/classes.dex" />
+    </item>
+
+</items>
